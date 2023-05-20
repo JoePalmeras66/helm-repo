@@ -8,6 +8,7 @@ ingress:
       paths: 
         - pathType: Prefix
           backend:
-            serviceName: serviceName
-            servicePort: 8080
+            service:
+              name: serviceName
+              port: 8080
           path: /
