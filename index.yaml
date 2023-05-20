@@ -3,7 +3,7 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-20T12:48:58.1875909+02:00"
+    created: "2023-05-20T20:49:00.556697+02:00"
     description: A Helm chart for any application
     digest: 9c22e5fd4ca34250a830ec50152a319a967407d461dc633b5430efc587e1e11c
     home: https://github.com/JoePalmeras66/helm-repo/tree/master
@@ -18,4 +18,45 @@ entries:
     urls:
     - https://joepalmeras66.github.io/helm-repo/packages/app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-20T12:48:58.1735911+02:00"
+  ingress:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-20T20:49:00.5667272+02:00"
+    dependencies:
+    - name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.6.1
+    description: A Helm chart for Ingress Controller
+    digest: c6266b4f67b02c8d6cc95619456ace98e0cc277bfbb5521600c4ac4f64c5f191
+    home: https://github.com/JoePalmeras66/helm-repo/tree/master
+    keywords:
+    - ingress
+    - nginx
+    - api-gateway
+    maintainers:
+    - name: Joe Palmeras
+      url: https://github.com/JoePalmeras66
+    name: ingress
+    type: application
+    urls:
+    - https://joepalmeras66.github.io/helm-repo/packages/ingress-0.1.0.tgz
+    version: 0.1.0
+  postgres:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-20T20:49:00.5683462+02:00"
+    description: A Helm chart for PostgreSQL database
+    digest: ece9ef4c263320f6876075d3f42ae56224c694c9d164c939817f76b36e1dfc24
+    home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
+    keywords:
+    - database
+    - postgres
+    maintainers:
+    - name: Wojtek Krzywiec
+      url: https://github.com/wkrzywiec
+    name: postgres
+    type: application
+    urls:
+    - https://joepalmeras66.github.io/helm-repo/packages/postgres-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-20T20:49:00.555355+02:00"
