@@ -4,6 +4,7 @@ ingress:
   replicaCount: 1
   annotations: 
     class: nginx
+    issuer: letsencrypt-staging
   tls: 
     - hosts: chart-example.local
       secretName: chart-example-tls
