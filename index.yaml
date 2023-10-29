@@ -3,7 +3,7 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-29T13:05:52.3615574+01:00"
+    created: "2023-10-29T14:16:43.2581038+01:00"
     description: A Helm chart for any application
     digest: 9c22e5fd4ca34250a830ec50152a319a967407d461dc633b5430efc587e1e11c
     home: https://github.com/JoePalmeras66/helm-repo/tree/master
@@ -21,7 +21,29 @@ entries:
   ingress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-29T13:05:52.3825562+01:00"
+    created: "2023-10-29T14:16:43.2881021+01:00"
+    dependencies:
+    - name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 4.6.1
+    description: A Helm chart for Ingress Controller
+    digest: f3ba7d32548858a943d5a37df32a28affbbcc8749e30b84a2da2c241103cb905
+    home: https://github.com/JoePalmeras66/helm-repo/tree/master
+    keywords:
+    - ingress
+    - nginx
+    - api-gateway
+    maintainers:
+    - name: Joe Palmeras
+      url: https://github.com/JoePalmeras66
+    name: ingress
+    type: application
+    urls:
+    - https://github.com/JoePalmeras66/helm-repo/packages/ingress-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-29T14:16:43.2821019+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -43,7 +65,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-29T13:05:52.375559+01:00"
+    created: "2023-10-29T14:16:43.2761028+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -65,7 +87,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-29T13:05:52.369556+01:00"
+    created: "2023-10-29T14:16:43.2641023+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -88,7 +110,7 @@ entries:
   postgres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-29T13:05:52.385575+01:00"
+    created: "2023-10-29T14:16:43.289101+01:00"
     description: A Helm chart for PostgreSQL database
     digest: ece9ef4c263320f6876075d3f42ae56224c694c9d164c939817f76b36e1dfc24
     home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
@@ -103,4 +125,4 @@ entries:
     urls:
     - https://github.com/JoePalmeras66/helm-repo/packages/postgres-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-29T13:05:52.3595577+01:00"
+generated: "2023-10-29T14:16:43.2551036+01:00"
