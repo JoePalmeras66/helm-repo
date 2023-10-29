@@ -4,6 +4,9 @@ ingress:
   replicaCount: 1
   annotations: 
     class: nginx
+  tls: 
+    - hosts: chart-example.local
+      secretName: chart-example-tls
   hosts:
     - host: chart-example.local
       paths: 
