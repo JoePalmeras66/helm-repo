@@ -5,9 +5,10 @@ ingress:
   annotations: 
     class: nginx
     issuer: letsencrypt-staging
-  tls: 
-    - hosts: chart-example.local
-      secretName: chart-example-tls
+  tls:
+    - secretName: chart-example-tls
+      hosts: 
+        - chart-example.local
   hosts:
     - host: chart-example.local
       paths: 
