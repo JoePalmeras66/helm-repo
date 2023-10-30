@@ -3,7 +3,7 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-30T14:19:06.6738171+01:00"
+    created: "2023-10-30T14:37:04.708174+01:00"
     description: A Helm chart for any application
     digest: 3e1651e1b0aa04f72e14bb9e07e4ae72a4e836129e33caceff84ec6dd79ffca4
     home: https://github.com/JoePalmeras66/helm-repo/tree/master
@@ -16,12 +16,12 @@ entries:
     name: app
     type: application
     urls:
-    - https://github.com/JoePalmeras66/helm-repo/packages/app-0.1.0.tgz
+    - https://github.com/JoePalmeras66/helm-repo/tree/master/packages/app-0.1.0.tgz
     version: 0.1.0
   ingress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-30T14:19:06.7052093+01:00"
+    created: "2023-10-30T14:37:04.7484702+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -39,11 +39,11 @@ entries:
     name: ingress
     type: application
     urls:
-    - https://github.com/JoePalmeras66/helm-repo/packages/ingress-0.5.0.tgz
+    - https://github.com/JoePalmeras66/helm-repo/tree/master/packages/ingress-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-30T14:19:06.7002091+01:00"
+    created: "2023-10-30T14:37:04.7419417+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -61,11 +61,11 @@ entries:
     name: ingress
     type: application
     urls:
-    - https://github.com/JoePalmeras66/helm-repo/packages/ingress-0.4.0.tgz
+    - https://github.com/JoePalmeras66/helm-repo/tree/master/packages/ingress-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-30T14:19:06.6942106+01:00"
+    created: "2023-10-30T14:37:04.7359411+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -83,11 +83,11 @@ entries:
     name: ingress
     type: application
     urls:
-    - https://github.com/JoePalmeras66/helm-repo/packages/ingress-0.3.0.tgz
+    - https://github.com/JoePalmeras66/helm-repo/tree/master/packages/ingress-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-30T14:19:06.6870747+01:00"
+    created: "2023-10-30T14:37:04.7245823+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -105,11 +105,11 @@ entries:
     name: ingress
     type: application
     urls:
-    - https://github.com/JoePalmeras66/helm-repo/packages/ingress-0.2.0.tgz
+    - https://github.com/JoePalmeras66/helm-repo/tree/master/packages/ingress-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-30T14:19:06.6816887+01:00"
+    created: "2023-10-30T14:37:04.716809+01:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -127,12 +127,12 @@ entries:
     name: ingress
     type: application
     urls:
-    - https://github.com/JoePalmeras66/helm-repo/packages/ingress-0.1.0.tgz
+    - https://github.com/JoePalmeras66/helm-repo/tree/master/packages/ingress-0.1.0.tgz
     version: 0.1.0
   postgres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-30T14:19:06.7052093+01:00"
+    created: "2023-10-30T14:37:04.7494712+01:00"
     description: A Helm chart for PostgreSQL database
     digest: 89faa616d7ce3b2319c75484d1eeebf6044d19ee0b37675b77c742ac8461a589
     home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
@@ -145,6 +145,6 @@ entries:
     name: postgres
     type: application
     urls:
-    - https://github.com/JoePalmeras66/helm-repo/packages/postgres-0.1.0.tgz
+    - https://github.com/JoePalmeras66/helm-repo/tree/master/packages/postgres-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-30T14:19:06.6727746+01:00"
+generated: "2023-10-30T14:37:04.7048313+01:00"
