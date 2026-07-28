@@ -83,18 +83,6 @@ entries:
     urls:
     - https://joepalmeras66.github.io/helm-repo/packages/app-0.1.0.tgz
     version: 0.1.0
-  ibkr-delayed-market-data-api:
-  - apiVersion: v2
-    appVersion: 1.2.10
-    created: "2026-07-23T14:41:12.2923927+02:00"
-    description: REST API for delayed market data from Interactive Brokers TWS or
-      IB Gateway
-    digest: 10dd2ef2c01d4b77a7108a57852384ca22c0dab9c372d5326293219d1db33b7e
-    name: ibkr-delayed-market-data-api
-    type: application
-    urls:
-    - https://joepalmeras66.github.io/helm-repo/packages/ibkr-delayed-market-data-api-0.3.0.tgz
-    version: 0.3.0
   ingress:
   - apiVersion: v2
     appVersion: 1.16.0
