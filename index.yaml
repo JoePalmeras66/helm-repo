@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   aggressioncontrol:
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.87869652Z"
+    created: "2026-07-29T21:58:49.922020531Z"
     description: Helm chart for a Spring Boot microservice
     digest: 018f6a1253cd49b769b6041f6101ffa4e0e74f83e52329bff54b14eb9cfc0cfa
     name: aggressioncontrol
@@ -11,7 +11,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.878223623Z"
+    created: "2026-07-29T21:58:49.921587172Z"
     description: Secure Helm chart for aggressioncontrol Spring Boot service
     digest: a5eb9b975a8e561458f7e33cc9f48da179da3a6f89a21dd5364d8e228a98db97
     name: aggressioncontrol
@@ -20,7 +20,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.877750486Z"
+    created: "2026-07-29T21:58:49.921052971Z"
     description: Secure Helm chart for aggressioncontrol Spring Boot service
     digest: a3ccf04859f47fae6659be95de2609a31fccc03d7214f4ae6a3b9a1c118b91cd
     name: aggressioncontrol
@@ -29,7 +29,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.877334192Z"
+    created: "2026-07-29T21:58:49.920632485Z"
     description: Secure Helm chart for aggressioncontrol Spring Boot service
     digest: afe2fbd8b529736c4e6c2301cf6ca5925b6b6fec99dbc74d19f628de0fe47d08
     name: aggressioncontrol
@@ -38,7 +38,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.876886813Z"
+    created: "2026-07-29T21:58:49.920090831Z"
     description: Secure Helm chart for aggressioncontrol Spring Boot service
     digest: 6fce55b79240990da5f4f4795ad159fd674f1724d8fa7807561984f042956eb1
     name: aggressioncontrol
@@ -47,7 +47,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.876317213Z"
+    created: "2026-07-29T21:58:49.919620245Z"
     description: Secure Helm chart for aggressioncontrol Spring Boot service
     digest: 31b52bb2846b56d308f8eb8ab500b6e30d56c79360a65779d7c1ad76429a995b
     name: aggressioncontrol
@@ -57,7 +57,7 @@ entries:
     version: 0.1.1
   aggressioncontrol-backend:
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.879596307Z"
+    created: "2026-07-29T21:58:49.923565677Z"
     description: Helm chart for a Spring Boot microservice
     digest: eefb1cb721f0ef97af631670955b39e2b6d24e8dd85934fd29f31e2683564e90
     name: aggressioncontrol-backend
@@ -66,7 +66,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-backend-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.879178741Z"
+    created: "2026-07-29T21:58:49.922472373Z"
     description: Helm chart for a Spring Boot microservice
     digest: a7949344b7365bc3a8dbcd9e19b1557a828ae08eb447cbf56a40d1425b3b2507
     name: aggressioncontrol-backend
@@ -75,7 +75,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-backend-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.883143416Z"
+    created: "2026-07-29T21:58:49.926924205Z"
     description: Helm chart for a Spring Boot microservice
     digest: 65c01baf1255009eaa8f8121a76e8bf64808909ad2c60e6b269d172d00bdfd85
     name: aggressioncontrol-backend
@@ -84,7 +84,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-backend-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.882056915Z"
+    created: "2026-07-29T21:58:49.92645979Z"
     description: Helm chart for a Spring Boot microservice
     digest: 11c22c5c7b2da563f264b13931041c0f15216ef34a4053e9d1098485053fe8ae
     name: aggressioncontrol-backend
@@ -93,7 +93,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-backend-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.881122818Z"
+    created: "2026-07-29T21:58:49.925889495Z"
     description: Helm chart for a Spring Boot microservice
     digest: 6fa2beb103293e13d9a7e326e07a38fe08d39d426c187d9567f110e884a054a8
     name: aggressioncontrol-backend
@@ -102,7 +102,7 @@ entries:
     - https://joepalmeras66.github.io/helm-repo/packages/aggressioncontrol-backend-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v2
-    created: "2026-07-29T19:35:10.880023517Z"
+    created: "2026-07-29T21:58:49.92458574Z"
     description: Helm chart for a Spring Boot microservice
     digest: 0e65fce237daba1cc6acb4d61218256431628094ddd108ee049c2f05d6e441f6
     name: aggressioncontrol-backend
@@ -113,7 +113,7 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.883354888Z"
+    created: "2026-07-29T21:58:49.927123734Z"
     description: A Helm chart for any application
     digest: ad7173323448585a564a88057b025e68bc4f8af9676478a9d7d2b45cf372470f
     home: https://github.com/JoePalmeras66/helm-repo/tree/master
@@ -131,7 +131,7 @@ entries:
   ibkr-delayed-market-data-api:
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2026-07-29T19:35:10.885257312Z"
+    created: "2026-07-29T21:58:49.929419341Z"
     description: REST API for delayed market data from Interactive Brokers TWS or
       IB Gateway
     digest: ba23609484540375ffd67d3902b625ce2721c5a30e87b824a5685cd8705976fc
@@ -142,7 +142,7 @@ entries:
     version: 1.2.17
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2026-07-29T19:35:10.884881498Z"
+    created: "2026-07-29T21:58:49.92902396Z"
     description: REST API for delayed market data from Interactive Brokers TWS or
       IB Gateway
     digest: a0624fd29dc0527b0c6edcf89d26f700f9d996b4027bd8c8d845b85af96353a7
@@ -153,7 +153,7 @@ entries:
     version: 1.2.16
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2026-07-29T19:35:10.884512354Z"
+    created: "2026-07-29T21:58:49.928659455Z"
     description: REST API for delayed market data from Interactive Brokers TWS or
       IB Gateway
     digest: 51e96abd6b8df4230d6c0142bfd4580a7332f3f1b1ebbbf4e8c5585c93572d5e
@@ -164,7 +164,7 @@ entries:
     version: 1.2.15
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2026-07-29T19:35:10.884171832Z"
+    created: "2026-07-29T21:58:49.928253776Z"
     description: REST API for delayed market data from Interactive Brokers TWS or
       IB Gateway
     digest: 2cd1f3ad5d109b4ac34d50be450c229fe59701768fb516aeb0f31cbdf53dc022
@@ -175,7 +175,18 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2026-07-29T19:35:10.883717512Z"
+    created: "2026-07-29T21:58:49.927896524Z"
+    description: REST API for delayed market data from Interactive Brokers TWS or
+      IB Gateway
+    digest: 1d66b092f03edeccf20e18ccde5c27bc57c6577ae318712deb24d5a3b1a2d484
+    name: ibkr-delayed-market-data-api
+    type: application
+    urls:
+    - https://joepalmeras66.github.io/helm-repo/packages/ibkr-delayed-market-data-api-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.2.10
+    created: "2026-07-29T21:58:49.927519976Z"
     description: REST API for delayed market data from Interactive Brokers TWS or
       IB Gateway
     digest: d09befddea0ae7026ee6b26bb848a9f2ea81bf7fccb47d7b40659ac4451229aa
@@ -187,7 +198,7 @@ entries:
   ingress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.912231701Z"
+    created: "2026-07-29T21:58:49.950013259Z"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -209,7 +220,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.907355782Z"
+    created: "2026-07-29T21:58:49.947042488Z"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -231,7 +242,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.900251408Z"
+    created: "2026-07-29T21:58:49.94432974Z"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -253,7 +264,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.894992996Z"
+    created: "2026-07-29T21:58:49.939600737Z"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -275,7 +286,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.892236783Z"
+    created: "2026-07-29T21:58:49.936946375Z"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -297,7 +308,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.888106873Z"
+    created: "2026-07-29T21:58:49.934242293Z"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
@@ -320,7 +331,7 @@ entries:
   postgres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-07-29T19:35:10.912623538Z"
+    created: "2026-07-29T21:58:49.950503921Z"
     description: A Helm chart for PostgreSQL database
     digest: c4f577edf4b92fefce1e01b1056019b9a502e624a772c6c943bdfff79d949ab0
     home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
@@ -335,4 +346,4 @@ entries:
     urls:
     - https://joepalmeras66.github.io/helm-repo/packages/postgres-0.1.0.tgz
     version: 0.1.0
-generated: "2026-07-29T19:35:10.875701205Z"
+generated: "2026-07-29T21:58:49.918950871Z"
